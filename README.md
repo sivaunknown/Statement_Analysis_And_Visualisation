@@ -31,13 +31,17 @@ Visualisation libraries — For generating charts and graphs.
 
 📂 Project Structure
 
-Transaction_Analysis_And_Visualisation/
+Statement_Analysis_And_Visualisation/
 │
 ├── README.md
-├── assets/
+├── .gitignore
+├── requirements.txt
 ├── data_functions.py
 ├── dashboard.py
-└── requirements.txt
+│
+└── assets/
+    ├── dashboard.png
+    └── visualisation.png
 
 ⚙️ Installation and Setup
 1. Clone the repository
